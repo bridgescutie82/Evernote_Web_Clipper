@@ -197,3 +197,6 @@ This repository serves as the official landing page for Evernote Web Clipper. Th
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Evernote Web Clipper today!**
+
+---
+**Last updated:** 2026-11-07 23:16:41 UTC
